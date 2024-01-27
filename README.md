@@ -56,7 +56,7 @@ This project for advanced CSS developers.
         }
         ```
 --- 
-![image](https://github.com/WajdWael/nicePricingCard/assets/81550668/44da65bb-c245-4c4e-bbd3-1b731789cb51)
+  ![image](https://github.com/WajdWael/nicePricingCard/assets/81550668/44da65bb-c245-4c4e-bbd3-1b731789cb51)
 
   5. How to create this
        - ```CSS
