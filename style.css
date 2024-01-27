@@ -35,7 +35,7 @@ PROJECT TWO OFFER CARDS   */
   }
 }
 
-body{
+body {
   font-family: 'Open Sans', sans-serif, system-ui;
 }
 
@@ -51,6 +51,7 @@ body{
 /* ==== CARD PRICING ==== */
 .card {
   padding: 3rem 0;
+  font-family: 'Open Sans', sans-serif, system-ui;
 }
 .card__title {
   letter-spacing: 2px;
