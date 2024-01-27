@@ -35,6 +35,10 @@ PROJECT TWO OFFER CARDS   */
   }
 }
 
+body{
+  font-family: 'Open Sans', sans-serif, system-ui;
+}
+
 /* == CSS CLASS == */
 .container {
   max-width: 1024px;
